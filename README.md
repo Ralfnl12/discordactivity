@@ -1,4 +1,4 @@
-# AQdiscordactivity
+# discord activity
 
-Voeg ergens toe in je recources folder
-zorg dat de folder waarin hij zit gestart word of start hem handmatig met "ensure AQdiscordactivity"
+
+Add to the recources folder and start it by adding "ensure discordactivityCFX"
