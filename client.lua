@@ -10,13 +10,8 @@ Citizen.CreateThread(function()
         SetDiscordRichPresenceAssetSmall('fivem-emblem')
 
 
-        -- (26-02-2021) New Native:
+        -- buttons:
 
-        --[[ 
-            Here you can add buttons that will display in your Discord Status,
-            First paramater is the button index (0 or 1), second is the title and 
-            last is the url (this has to start with "fivem://connect/" or "https://") 
-        ]]--
         SetDiscordRichPresenceAction(0, "Speel mee!", "https://cfx.re/join/95z5ry")
         SetDiscordRichPresenceAction(1, "Join onze discord!", "https://discord.gg/Cye7VsEX4v")
 
