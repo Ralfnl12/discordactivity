@@ -4,7 +4,7 @@ Citizen.CreateThread(function()
 		SetDiscordAppId(1193282870840664124)
 
         -- Here you will have to put the image name for the "large" icon.
-		SetDiscordRichPresenceAsset('aqualogowater')
+		SetDiscordRichPresenceAsset('rdrlogozwart')
 
         -- Here you will have to put the image name for the "small" icon.
         SetDiscordRichPresenceAssetSmall('fivem-emblem')
